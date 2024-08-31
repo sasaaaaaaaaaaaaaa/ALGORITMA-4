@@ -33,5 +33,5 @@ for ($i = 1; $i <= count($bulan); $i++)
 }
 
 echo '</table>';
-print_r("<p><strong>by :alika naswa sabilaa");
+print_r("<p><strong>by :alika naswa sabila");
 ?>
