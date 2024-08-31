@@ -33,4 +33,4 @@ Contoh 4, tanpa statement hanya ekspresi saja
  */
 for ($i = 0; $i <= 15; print $i, $i++);
 echo "<hr>";
-print_r("<p><strong>by :alika naswa sabilaa");
+print_r("<p><strong>by :alika naswa sabila");
