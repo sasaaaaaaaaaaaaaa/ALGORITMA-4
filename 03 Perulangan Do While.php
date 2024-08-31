@@ -7,6 +7,6 @@ do {
     echo "<p>ini adalah perulangan ke-$ulangi</p><hr>";
     $ulangi--;
 } while ($ulangi > 0);
-print_r("<p><strong>by :alika naswa sabila");
+print_r("<p><strong>by :alika naswa sabilaa");
 ?>
 
