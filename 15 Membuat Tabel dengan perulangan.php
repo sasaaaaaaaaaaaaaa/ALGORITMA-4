@@ -10,4 +10,5 @@ for($i=1; $i <=3; $i++){
       }
 }
 echo "</table>";
+print_r("<p><strong>by :alika naswa sabilaa");
 ?>
